@@ -1,2 +1,2 @@
 # CC_Project_1Redo
-Redo of Project 1
+Redo of Project 1s
